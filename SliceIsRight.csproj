@@ -6,7 +6,7 @@
     <Version>3</Version>
     <Description>Slice is Right.</Description>
     <Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/carvelli/SliceIsRight</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/carvelli/Slice-Is-Right</PackageProjectUrl>
     <Configurations>Release</Configurations>
   </PropertyGroup>
 
