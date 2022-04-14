@@ -3,7 +3,7 @@ name: Slice is Right
 punchline: Shows where Bamboo falls.
 description: Shows where Bamboo falls.
 internal_name: SliceIsRight
-dalamud_api_level: 5
+dalamud_api_level: 6
 tags:
   - gold saucer
   - yojimbo
